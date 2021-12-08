@@ -12,6 +12,8 @@
     <link rel="stylesheet" href="assets/style.css">
     <title>Kaskuy - Login</title>
 </head>
+
+
 <body class="bg-white">
 <div class="container">
 <h3 class="text-center mt-5 text-white">Selamat Datang di Manajemen Kas TF3C</h3>
@@ -23,11 +25,11 @@
                     <form action="" method="POST">
                         <label>Username</label>
                         <br>
-                        <input type="text" class="form-control" placeholder="Masukan username...">
+                        <input type="text" class="form-control" placeholder="Masukan user...">
                         <br>
                         <label>Password</label>
                         <br>
-                        <input type="password" class="form-control" placeholder="Masukan password...">
+                        <input type="password" class="form-control" placeholder="Masukan pass...">
                         <button class="btn btn-primary text-white mt-4 w-100">Login</button>
                     </form>
                 </div>
