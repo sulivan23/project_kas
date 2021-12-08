@@ -1,0 +1,26 @@
+body{
+    font-family: 'Nanum Gothic';
+    background-image: linear-gradient(to right, #96c9f0ea, rgb(17, 124, 218)); 
+}
+
+.justify-content-center{
+    margin:0px auto;
+    margin-top:50px;
+}
+
+.panjang-100{
+    width:100%;
+}
+
+.login{
+    border-right:15px solid rgb(10, 115, 228);
+}
+
+.login-header{
+    /* border:0px solid #fff; */
+    border-radius : 0px !important;
+}
+
+.login-body{
+    padding:30px 30px 30px;
+}
