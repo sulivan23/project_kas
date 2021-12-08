@@ -16,7 +16,7 @@
 
 <body class="bg-white">
 <div class="container">
-<h3 class="text-center mt-5 text-white">Selamat Datang</h3>
+<h3 class="text-center mt-5 text-white">Selamat Datang Di Management kas TF3C</h3>
     <div class="row">
         <div class="col-md-6 justify-content-center">
             <div class="card login shadow">
