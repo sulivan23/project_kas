@@ -28,11 +28,11 @@
                     <form action="proses/proses_login.php" method="POST">
                         <label>Username</label>
                         <br>
-                        <input type="text" class="form-control" placeholder="Masukan user...">
+                        <input type="text" class="form-control" placeholder="Masukan user... "name="username">
                         <br>
                         <label>Password</label>
                         <br>
-                        <input type="password" class="form-control" placeholder="Masukan pass...">
+                        <input type="password" class="form-control" placeholder="Masukan pass..."name="password">
                         <button class="btn btn-primary text-white mt-4 w-100">Login</button>
                     </form>
                 </div>
