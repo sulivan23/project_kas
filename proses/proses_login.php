@@ -20,7 +20,7 @@ if($query == false){
         header("location:../dashboard.php");    
     }else{
         //script javacript untuk mengembalikan ke halaman login jika user dan pasword salah
-        echo '<script> alert("password yang anda masukan salah!"); window.location.href=",,/index.php"; </script';
+        echo '<script> alert("password yang anda masukan salah!"); window.location.href="../index.php"; </script';
     }
 }
 ?>
