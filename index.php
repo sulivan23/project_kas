@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -10,13 +11,13 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Nanum+Gothic&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="assets/style.css">
-    <title>Kaskuy - Login</title>
+    <title>Kas-TF3C - Login</title>
 </head>
 
 
 <body class="bg-white">
 <div class="container">
-<h3 class="text-center mt-5 text-white">Selamat Datang Di Management kas TF3C</h3>
+<h3 class="text-center mt-5 text-white">Selamat Datang Di Management kas TF4C</h3>
     <div class="row">
         <div class="col-md-6 justify-content-center">
             <div class="card login shadow">
